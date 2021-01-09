@@ -1,7 +1,11 @@
-# MachineLearningProjects
-# My Repo for latest projects at INSAID
+# Machine Learning Projects
 
-## List of all projects
+------------
+
+
+### My Repo for latest projects at INSAID
+
+### List of all projects
 
 - [EDA on Wine Quality Dataset](https://github.com/DhirajAmbure/MachineLearningProjects/tree/main/EDA_OnWineQualityData "EDA on Wine Quality Dataset")
 - [ML Foundation Project (Mushrooms Dataset)](https://github.com/DhirajAmbure/MachineLearningProjects/tree/main/MLFoundation_MushroomsDataset "ML Foundation Project (Mushrooms Dataset)")
